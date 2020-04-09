@@ -1,2 +1,0 @@
-# seasons
-Created with CodeSandbox
